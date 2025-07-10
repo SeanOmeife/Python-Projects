@@ -1,0 +1,1 @@
+python "C:\Users\DeadMau5-64\Coding\Python-Projects\timer\timer.py"
